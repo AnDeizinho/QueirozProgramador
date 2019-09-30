@@ -1,0 +1,12 @@
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\bin\Debug\SistemaClientes.exe.config
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\bin\Debug\SistemaClientes.exe
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\bin\Debug\SistemaClientes.pdb
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\bin\Debug\Dados.dll
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\bin\Debug\Dados.pdb
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\obj\Debug\SistemaClientes.csprojResolveAssemblyReference.cache
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\obj\Debug\SistemaClientes.FrmCliente.resources
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\obj\Debug\SistemaClientes.FrmCadCliente.resources
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\obj\Debug\SistemaClientes.Properties.Resources.resources
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\obj\Debug\SistemaClientes.csproj.GenerateResource.Cache
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\obj\Debug\SistemaClientes.exe
+c:\users\desenvolvedor\documents\visual studio 2012\Projects\SistemaClientes\SistemaClientes\obj\Debug\SistemaClientes.pdb
