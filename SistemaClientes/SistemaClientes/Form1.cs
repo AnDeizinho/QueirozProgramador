@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace SistemaClientes
 {
+    //menu principal
     public partial class FrmCliente : Form
     {
         public FrmCliente()
